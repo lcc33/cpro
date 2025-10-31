@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-// #include <iostream>
+#include <iostream>
 // using namespace std;
 
 #define N 2 /* # of thread */
