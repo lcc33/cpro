@@ -22,8 +22,8 @@ int main()
   printf("%s\n", name);
   printf("%c\n", grade);
   printf("%04d\n", age);
-  printf("%.f\n", price);
-  printf("%.lf\n", pi);
+  printf("%.2f\n", price);
+  printf("%.2lf\n", pi);
 
   operation();
   return 0;
